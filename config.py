@@ -1,0 +1,6 @@
+#localIp="http://127.0.0.1:3000/api/v1/"
+#localIp = "http://192.168.1.95:3000/api/v1/"
+#localIp = "http://192.168.10.82:3000/api/v1/"
+#localIp = "http://192.168.1.69:3000/api/v1/"
+localIp = "http://192.168.0.105:3000/api/v1/"
+hostedIp = "https://expensemonitoring.herokuapp.com/api/v1/"
